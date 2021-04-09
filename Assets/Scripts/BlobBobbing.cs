@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class RandomMovement : MonoBehaviour
+public class BlobBobbing : MonoBehaviour
 {
     bool inNumerator = false;
     float time = 0.57f;
